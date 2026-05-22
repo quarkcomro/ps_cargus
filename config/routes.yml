@@ -1,0 +1,15 @@
+cargus_add_awb_orders:
+  path: /cargus/{id_order}/add-awb
+  methods: [GET]
+  defaults:
+    _controller: Module\Cargus\Controller\Admin\CargusNewAwbController::addAwbAction
+  requirements:
+    id_order: \d+
+
+cargus_print_awb_orders:
+  path: /cargus/{id_order}/print-awb
+  methods: [GET]
+  defaults:
+    _controller: Module\Cargus\Controller\Admin\CargusNewAwbController::printAwbAction
+  requirements:
+    id_order: \d+

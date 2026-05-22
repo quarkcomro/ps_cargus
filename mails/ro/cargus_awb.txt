@@ -1,0 +1,8 @@
+Salut {firstname} {lastname},
+
+Comanda {id_order} din {order_date} a fost expediata cu Cargus.
+Numarul de AWB este: {awb}
+
+Puteti verifica statusul expeditiei pe site-ul nostru, in sectiunea `Urmareste comanda`, pe site-ul Cargus sau folosind aplicatiile mobile Cargus pentru Android si iOS.
+
+Multumim!

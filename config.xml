@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>cargus</name>
+    <displayName><![CDATA[Cargus]]></displayName>
+    <version><![CDATA[5.0.0]]></version>
+    <description><![CDATA[Curier Rapid]]></description>
+    <author><![CDATA[Cargus]]></author>
+    <tab><![CDATA[shipping_logistics]]></tab>
+	<confirmUninstall><![CDATA[Sunteti sigur ca doriti sa dezinstalati modulul Cargus?]]></confirmUninstall>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

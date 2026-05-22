@@ -1,0 +1,11 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Cargus\\": "classes/",
+      "Module\\Cargus\\": "src/"
+    },
+    "psr-0": {
+      "Cargus_": "models/"
+    }
+  }
+}
